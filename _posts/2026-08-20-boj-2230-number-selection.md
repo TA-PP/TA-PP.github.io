@@ -1,6 +1,6 @@
 ---
 title: "[백준 2230] 수 고르기 - Python 정렬과 투 포인터, 종료 조건 반례"
-date: 2026-08-20 10:00:00 +0900
+date: 2026-08-20 00:30:00 +0900
 categories: [Coding Test, Baekjoon]
 tags: [python, sorting, two-pointer, array, debugging, baekjoon]
 ---
